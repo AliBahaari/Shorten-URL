@@ -1,5 +1,5 @@
 # shorten-url
-A Python script for shorting URLs by Cutt.ly website.
+A Python script for shortening URLs by Cutt.ly website.
 
 ## Usage
 Write the code below in command line:
